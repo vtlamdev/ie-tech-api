@@ -1,2 +1,2 @@
 # ietutor_api
-using spring boots to write api for ietutor project
+using laravel for backend 
